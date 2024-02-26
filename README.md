@@ -10,3 +10,5 @@ Multiple linear regression is a statistical method used to model the relationshi
  
  *In polynomial regression, we model the relationship between the independent variable(s) and the dependent variable using a polynomial equation of degree n. The general form of a   polynomial regression equation with one independent variable
 
+# SVR(support vector regression)
+Support Vector Regression (SVR) is a regression algorithm based on Support Vector Machines (SVM), which is primarily used for classification tasks. However, SVR extends the SVM algorithm to handle regression problems. SVR aims to find a function that approximates the mapping from input variables to the continuous output variable, while also controlling for the errors made during the prediction.
